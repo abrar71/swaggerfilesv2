@@ -1,3 +1,3 @@
-module github.com/swaggo/files/v2
+module github.com/abrar71/swaggerfilesv2
 
-go 1.16
+go 1.24

@@ -1,4 +1,4 @@
-package swaggerFiles
+package swaggerfilesv2
 
 import (
 	"embed"
